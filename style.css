@@ -1,0 +1,15 @@
+h1{
+    font-size:xx-large;
+    text-align:center;
+}
+body{
+    margin: 20px;
+    background-color:white;
+}
+img{
+    width: 400px;;
+    height:auto;
+}
+li{
+    font-size: large;
+}
